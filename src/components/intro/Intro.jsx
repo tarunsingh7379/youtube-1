@@ -11,17 +11,13 @@ const Intro = () => {
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Web Developer</div>
-              <div className="i-title-item">UI/UX Designer</div>
-              <div className="i-title-item">Photographer</div>
-              <div className="i-title-item">Writer</div>
-              <div className="i-title-item">Content Creator</div>
+              <div className="i-title-item">Competitive Programmer</div>
             </div>
           </div>
           <div className="i-desc">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
-            perspiciatis architecto at! Minus modi rem provident reprehenderit.
-            Consequatur quam quas, debitis suscipit doloribus ipsam totam enim
-            blanditiis neque officia distinctio?
+            I am a 3rd year B.Tech student at Harcourt Butler University Kanpur.
+            I am a competitive programmer who loves to solve coding problems. I
+            am also a web developer who enjoys creating websites.
           </div>
         </div>
       </div>
